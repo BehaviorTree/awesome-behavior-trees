@@ -5,3 +5,12 @@ Awesome Robotics
 
 
 A list of awesome Behavior Trees resources.  It's an attempt to gather useful material in one place for everybody who wants to learn more about Behavior Trees.
+
+
+### Courses ###
+
+### Real Robot Examples ###
+
+### Game AI Examples ###
+
+### Papers ###
