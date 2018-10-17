@@ -10,6 +10,10 @@ A list of awesome Behavior Trees resources.  It's an attempt to gather useful ma
 ### Courses ###
 
 ### Real Robot Examples ###
+* [Costar]
+* [Jibo](https://github.com/jiborobot/jibo-sdk)
+* [Mekamon] (https://mekamon.com/)
+* [Sawyer] (http://mfg.rethinkrobotics.com/intera/Robot_Screen)
 
 ### Game AI Examples ###
 
