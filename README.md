@@ -21,9 +21,7 @@ A list of awesome Behavior Trees resources.  It's an attempt to gather useful ma
 ### Software and Libraries ###
 * [Behavior Tree](https://github.com/BehaviorTree/BehaviorTree.CPP) **Behavior Tree library in C++**
 * [Groot](https://github.com/BehaviorTree/Groot) **Graphical Editor to create BehaviorTrees**
-* [CoSTAR Stack](http://cpaxton.github.io/costar_stack/) **Collaborative System for Task Automation and Recognition
-
-**
+* [CoSTAR Stack](http://cpaxton.github.io/costar_stack/) **Collaborative System for Task Automation and Recognition**
 
 ### Papers ###
 
