@@ -26,7 +26,7 @@ A list of awesome Behavior Trees resources.  It's an attempt to gather useful ma
 
 ### Projects ###
 * [MOOD2Be](https://eurecat.org/en/portfolio-items/mood2be/) **Integration of Behavior Trees in RobMoSys**
-* [CARVE](https://robmosys.eu/carve/) **ComposAble Robot behaViors with vErification**
+* [CARVE](https://carve-robmosys.github.io) **ComposAble Robot behaViors with vErification**
 *  SARAFun **Smart Assembly Robot with Advanced Functionalities**
 
 ### Papers ###
