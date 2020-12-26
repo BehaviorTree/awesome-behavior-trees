@@ -23,6 +23,7 @@ A list of awesome Behavior Trees resources.  It's an attempt to gather useful ma
 * [py_trees](https://github.com/stonier/py_trees) **Behavior Tree library in Python**
 * [Groot](https://github.com/BehaviorTree/Groot) **Graphical Editor to create BehaviorTrees**
 * [CoSTAR Stack](http://cpaxton.github.io/costar_stack/) **Collaborative System for Task Automation and Recognition**
+* [Active Logic](http://active-logic/activelogic-cs) **Tightly integrated behavior tree library in C#**
 
 ### Projects ###
 * [MOOD2Be](https://eurecat.org/en/portfolio-items/mood2be/) **Integration of Behavior Trees in RobMoSys**
