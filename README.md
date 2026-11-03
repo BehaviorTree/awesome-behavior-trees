@@ -22,6 +22,7 @@ A list of awesome Behavior Trees resources.  It's an attempt to gather useful ma
 * [Behavior Tree](https://github.com/BehaviorTree/BehaviorTree.CPP) **Behavior Tree library in C++**
 * [py_trees](https://github.com/stonier/py_trees) **Behavior Tree library in Python**
 * [Groot](https://github.com/BehaviorTree/Groot) **Graphical Editor to create BehaviorTrees**
+* [behaviortrees.com](https://www.behaviortrees.com) **Free online visual editor for behavior trees, with behavior3 JSON and BehaviorTree.CPP XML (Groot2, ROS 2 Nav2) import/export**
 * [CoSTAR Stack](http://cpaxton.github.io/costar_stack/) **Collaborative System for Task Automation and Recognition**
 * [Papyrus for Robotics](https://www.eclipse.org/papyrus/components/robotics/) **Eclipse Project that implements (amongst other things) behavior trees**
 
